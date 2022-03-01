@@ -1,0 +1,49 @@
+body {
+padding-top: 20px;
+}
+
+.heading {
+  padding-left: 850px;
+  position:absolute;
+  display: inline-block;
+}
+
+.box-1 {
+  padding-top: 120px;
+  padding-left: 150px;
+  padding-bottom: 20px;
+  position:relative;
+  display: inline-block;
+}
+
+.box-2 {
+  padding: 20px;
+  padding-bottom: 10px;
+  position: relative;
+  display: inline-block;
+}
+
+.box-3 {
+  padding: 20px;
+  position: relative;
+  display: inline-block;
+}
+
+.box-4 {
+  padding-left: 150px;
+  position: relative;
+  display: inline-block;
+}
+
+.box-5 {
+  padding: 20px;
+  position: relative;
+  display: inline-block;
+}
+
+.box-6 {
+  padding: 20px;
+  padding-bottom: 150px;
+  position: relative;
+  display: inline-block;
+}

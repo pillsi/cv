@@ -1,0 +1,54 @@
+body {
+margin-top: 100px;
+}
+
+.box-1 {
+  margin-left: 400px;
+  margin-top: 100px;
+  position: relative;
+  display:inline;
+}
+
+.paragraph {
+  height: 300px;
+  width: 500px;
+  margin-left: 100px;
+  margin-top: -3545px;
+  position:absolute;
+  display:inline;
+}
+
+.box-2 {
+  margin-left: 400px;
+  margin-top: 100px;
+  position: relative;
+  display:inline;
+}
+
+.box-3 {
+  margin-left: 400px;
+  margin-top: 100px;
+  position: relative;
+  display:inline;
+}
+
+.box-4 {
+  margin-left: 400px;
+  margin-top: 100px;
+  position: relative;
+  display:inline;
+}
+
+.box-5 {
+  margin-left: 400px;
+  margin-top: 100px;
+  position: relative;
+  display:inline;
+}
+
+.box-6 {
+  margin-left: 400px;
+  margin-top: 100px;
+  position: relative;
+  display:inline;
+}
